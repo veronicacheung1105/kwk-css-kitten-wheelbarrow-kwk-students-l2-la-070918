@@ -27,7 +27,7 @@ img {
   z-index: 0;
   top: 220px;
 }
-.wheelbarrow-foreground {
+#wheelbarrow-foreground {
   pointer-events: none;
   position: absolute;
   background: url(../images/wheelbarrow-foreground.png) no-repeat;
